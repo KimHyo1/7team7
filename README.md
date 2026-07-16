@@ -110,7 +110,7 @@ npm install
 
 ### 3. 환경 변수 설정
 
-`pjt` 폴더에 `.env` 파일을 만들고 아래 값을 입력합니다.
+폴더에 `.env` 파일을 만들고 아래 값을 입력합니다.
 
 ```env
 VITE_OPENAI_API_KEY=your_openai_api_key
