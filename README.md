@@ -9,6 +9,15 @@
 > 위 URL을 실제 Netlify 배포 주소로 교체해 주세요.
 
 ---
+## 👥 팀원
+
+> SSAFY 16기 · 구미 2반 7팀
+
+| 이름 | 역할 | GitHub |
+| --- | --- | --- |
+| 김대호 | 팀장 | [@id]hohoho0961@gmail.com) |
+| 김효 | 팀원 | [@KimHyo1](https://github.com/KimHyo1) |
+| 유기연 | 팀원 | [@id]ygyp6095@naver.com |
 
 ## 프로젝트 소개
 
