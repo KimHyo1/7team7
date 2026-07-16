@@ -251,7 +251,7 @@ import {
 } from "./utils/localsearch";
 import { computed, onMounted, ref } from "vue";
 import MapSection from "./components/MapSection.vue";
-import CommunityBoard from "./components/CommunityBoard.vue";
+import CommunityBoard from "./features/community/BoardList.vue";
 import PostForm from "./components/PostForm.vue";
 import PostDetail from "./components/PostDetail.vue";
 import ChatbotWidget from "./components/ChatbotWidget.vue";
