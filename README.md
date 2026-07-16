@@ -14,9 +14,9 @@
 
 | 이름 | 역할 | GitHub |
 | --- | --- | --- |
-| 김대호 | 팀장 | [@id]hohoho0961@gmail.com) |
+| 김대호 | 팀장 | [@hohoho0961]hohoho0961@gmail.com) |
 | 김효 | 팀원 | [@KimHyo1](https://github.com/KimHyo1) |
-| 유기연 | 팀원 | [@id]ygyp6095@naver.com |
+| 유기연 | 팀원 | [@giyeonYOO]ygyp6095@naver.com |
 
 ## 프로젝트 소개
 
