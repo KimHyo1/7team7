@@ -28,9 +28,28 @@ const top5 = computed(() => source.value.slice().sort((a,b)=> (b.likes||0) - (a.
 
 
 <style scoped>
-.community-wrap { display:flex; gap:16px; }
-.left { flex: 7 }
-.right { flex: 3 }
+.community-wrap {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+.left {
+  flex: 7.5;
+}
+
+.right {
+  flex: 2.5;
+  margin-top: 0;
+  padding-top: 0;
+}
+/* ensure inner columns align to the top of the parent row /
+.community-wrap > .left,
+.community-wrap > .right {
+  align-self: start;
+}
+/ ensure board list itself has no extra top margin */
+.left .community-page { margin-top: 0 }
 .best { background:#fff; border-radius:12px; padding:12px; border:1px solid #e6edf5 }
 .best h4 { margin:0 0 8px }
 .best ol { list-style:none; padding:0; margin:0; display:flex; flex-direction:column; gap:10px }
