@@ -6,7 +6,6 @@
 
 ### https://gumigumi.netlify.app/
 
-> 위 URL을 실제 Netlify 배포 주소로 교체해 주세요.
 
 ---
 ## 👥 팀원
